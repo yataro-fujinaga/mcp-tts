@@ -1,6 +1,13 @@
-# mcp-tts
+<p align="center">
+  <img src="assets/banner.png" alt="mcp-tts" width="640">
+</p>
 
-An MCP server that gives AI agents the ability to speak. Supports multiple TTS engines through a unified interface.
+<p align="center">
+  <strong>An MCP server that gives AI agents the ability to speak.</strong><br>
+  Supports multiple TTS engines through a unified interface.
+</p>
+
+---
 
 ## Why
 
